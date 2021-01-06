@@ -4,7 +4,6 @@ We build apps to retrieve the weather data of Climate in Honolulu, Hawaii using 
 
 
 ## Climate App
-Using Flask and 
 
 * /api/v1.0/precipitation
 
